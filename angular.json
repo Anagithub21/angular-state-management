@@ -123,6 +123,11 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-state-management"
+    }
+  },
+  "defaultProject": "angular-state-management",
+  "cli": {
+    "analytics": "dcf802f8-a10d-4c46-84ae-56b3cf9cd54e",
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
